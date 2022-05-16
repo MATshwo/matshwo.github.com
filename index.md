@@ -8,7 +8,7 @@
       <p><b>地址：厦门市厦门大学</b></p>
     </td>
     <td width="25%">
-      <img src="/cat.jpeg" width="100%">      % 插入证件照代码
+      <img src="/cat.jpeg" width="100%">     
     </td>
   </tr>
 </table>
